@@ -1,13 +1,12 @@
-# See the OWNERS docs: https://git.k8s.io/community/contributors/devel/owners.md
+# See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
+  - jberkus # RT Lead
+reviewers:
   - idvoretskyi
   - spiffxp
   - calebamiles
   - jdumars
-  - jberkus
   - tpepper
   - nickchase
   - AishSundar
-  - sig-release-leads
-  - release-team-leads

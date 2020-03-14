@@ -1,9 +1,11 @@
-# See the OWNERS docs: https://git.k8s.io/community/contributors/devel/owners.md
+# See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
-  - idvoretskyi
-  - spiffxp
-  - calebamiles
-  - jdumars
   - sig-release-leads
-  - release-team-leads
+reviewers:
+  - licensing
+  - release-engineering
+  - release-team
+  - release-team-lead-role
+labels:
+  - sig/release
